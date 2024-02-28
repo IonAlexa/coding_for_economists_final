@@ -1,0 +1,31 @@
+    1  git status
+    2  git init
+    3  git add data
+    4  git add data/
+    5  git commit -m "Added data folder"
+    6  cd data/
+    7  mkdir python
+    8  git add python/
+    9  git commit - m "Added python folder"
+   10  git commit -m "Added python folder"
+   11  git push
+   12  git push https://github.com/IonAlexa/coding_for_economists_final
+   13  git push IonAlexa
+   14  git status
+   15  git init
+   16  cd ../
+   17  git init
+   18  git remote add origin https://github.com/IonAlexa/coding_for_economists_final.git
+   19  git add python/
+   20  git add data/python/
+   21  git commit -m "Added the folders"
+   22  git push
+   23  git push -u origin main
+   24  git push -u origin main
+   25  git push -u origin main
+   26  mv main.py python_final.py
+   27  git add python_final.py
+   28  git commit -m "Added my python assignment for the finals"
+   29  git push
+   30  history
+   31  history >history.txt
